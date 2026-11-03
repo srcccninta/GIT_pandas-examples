@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = "Coucou c'est Netanyahu"
+__author__ = "Netanhya who ?!!!"
 
 import pandas as pd
 import numpy as np
